@@ -1,0 +1,11 @@
+button {
+ color:red;
+ margin-left:10px;
+}
+#reg {
+ text-align:center;
+}
+body{
+background: no-repeat url("space.gif");
+ background-size:100%;
+}
