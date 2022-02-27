@@ -1,0 +1,13 @@
+div {
+ text-align: center;
+}
+body{
+ background: no-repeat url("Fifty.webp");
+ background-size:1240px 780px;
+}
+h1 {
+ color: blue;
+}
+button {
+ background: linear-gradient(62deg, #490979 50%, #0e0979 50%);
+}
